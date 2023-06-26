@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.sass'
+import './App.css'
 
 
 export default function App() {
